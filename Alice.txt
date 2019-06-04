@@ -1,2 +1,3 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+I wonder if Alice is the same Alice that went through the looking glass?
 I've been modified by "someone else"
